@@ -6,6 +6,19 @@ This repository contains comprehensive roadmaps and resources for becoming a pro
 
 ```
 .
+├── resources/                      # Comprehensive learning resources
+│   ├── General Learning Platforms
+│   ├── Documentation & References
+│   ├── Books
+│   ├── YouTube Channels
+│   ├── Blogs & News
+│   ├── Communities
+│   ├── Podcasts
+│   ├── Newsletters
+│   ├── Tools & Utilities
+│   ├── Certification Paths
+│   └── Project Ideas & Practice
+│
 ├── 01-backend-architecture/         # Backend patterns, APIs, authentication
 │   ├── Monolith vs Microservices
 │   ├── RESTful APIs vs GraphQL
@@ -83,6 +96,7 @@ This repository contains comprehensive roadmaps and resources for becoming a pro
    - Move through each section in order
    - Complete all practical exercises
    - Build projects using learned technologies
+   - Check the `resources/` directory for learning materials
 
 2. **Learning Approach**
    - Follow the structured learning paths
@@ -174,4 +188,19 @@ This roadmap is regularly updated with:
 - Community feedback
 - Industry trends
 
-Remember: Learning is a journey, not a destination. Take your time, practice regularly, and enjoy the process of becoming a full-stack developer! 
+Remember: Learning is a journey, not a destination. Take your time, practice regularly, and enjoy the process of becoming a full-stack developer!
+
+## Resources
+
+For a comprehensive list of learning resources, including:
+- Learning platforms
+- Documentation
+- Books
+- Video tutorials
+- Blogs
+- Communities
+- Tools
+- Certifications
+- Project ideas
+
+Please visit the [resources directory](resources/README.md) for detailed information. 
